@@ -1,0 +1,189 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+    "basics": {
+        "name": "Mariya Antonovich",
+        "label": "Software Engineer",
+        "image": "https://raw.githubusercontent.com/RiByryn/mary_cv/refs/heads/main/assets/photo_portrait.png",
+        "email": "maryantonovichru@gmail.com",
+        "summary": "I am a quick learner, responsible, and enjoy working with people.\nCreative python developer and beginner frontend enthusiast.\nDoing great stuff in office and free time.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Saint-Petersburg",
+            "countryCode": "RU",
+            "region": "Saint-Petersburg"
+        },
+        "profiles": [
+            {
+                "network": "vkontakte",
+                "username": "vk.com/m.antanovich",
+                "url": "https://vk.com/m.antanovich"
+            },
+            {
+                "network": "Github",
+                "username": "RiByryn",
+                "url": "https://github.com/RiByryn"
+            },
+            {
+                "network": "Telegram",
+                "username": "@RiByryn",
+                "url": "https://t.me/RiByryn"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "LLC \"Third Pin\"",
+            "position": "Software engineer",
+            "startDate": "2022",
+            "summary": "Doing great stuff:",
+            "highlights": [
+                "Developed Python drivers for various devices via RS-485 and USB interfaces",
+                "Wrote comprehensive test cases using pytest and robot framework for the Robster testing system.",
+                "Performed manual testing of the gas valve and activity tracker software, focusing on functional and usability aspects."
+            ]
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "ETY 'LETI'",
+            "url": "https://etu.ru/en/university/",
+            "area": "Bioengineering Systems and Technologies",
+            "studyType": "Master",
+            "startDate": "2017",
+            "endDate": "2019",
+            "courses": []
+        },
+        {
+            "institution": "ETY 'LETI'",
+            "url": "https://etu.ru/en/university/",
+            "area": "Bioengineering Systems and Technologies",
+            "studyType": "Bachelor",
+            "startDate": "2013",
+            "endDate": "2017",
+            "courses": []
+        }
+    ],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Python Development",
+            "level": "Intermediate",
+            "keywords": [
+                "pytest",
+                "Data Structures",
+                "OOP",
+                "logging",
+                "regex",
+                "csv",
+                "linter",
+                "ruff"
+            ]
+        },
+        {
+            "name": "CI/CD",
+            "level": "Intermediate",
+            "keywords": [
+                "Docker",
+                "Docker Compose",
+                "Github Actions",
+                "Gitlab Pipelines"
+            ]
+        },
+        {
+            "name": "Web Development",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Typescript",
+                "React"
+            ]
+        },
+        {
+            "name": "Databases",
+            "level": "Beginner",
+            "keywords": [
+                "PostgreSQL",
+                "MongoDB",
+                "SQL",
+                "CouchDB"
+            ]
+        },
+        {
+            "name": "Common",
+            "level": "",
+            "keywords": [
+                "Git",
+                "Gitlab",
+                "Github",
+                "Reviewing",
+                "Linux"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Upper Intermediate"
+        },
+        {
+            "language": "German",
+            "fluency": "Beginner"
+        },
+        {
+            "language": "Russian",
+            "fluency": "Native Speaker"
+        },
+        {
+            "language": "Belarusian",
+            "fluency": "Native Speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Intellectual games",
+            "keywords": []
+        },
+        {
+            "name": "Books",
+            "keywords": []
+        },
+        {
+            "name": "Handicraft",
+            "keywords": []
+        },
+        {
+            "name": "Dancing",
+            "keywords": []
+        }
+    ],
+    "references": [],
+    "projects": [
+        {
+            "name": "Hardpy",
+            "summary": "Open-source flexible testing system for electronic devices.",
+            "highlights": [],
+            "keywords": [
+                "Python",
+                "CouchDB",
+                "pytest",
+                "opensource",
+                "react",
+                "typescript",
+                "CI/CD"
+            ],
+            "startDate": "2024-03",
+            "url": "https://github.com/everypinio/hardpy",
+            "roles": [
+                "Developer"
+            ],
+            "entity": "Entity",
+            "type": "application"
+        }
+    ]
+}
